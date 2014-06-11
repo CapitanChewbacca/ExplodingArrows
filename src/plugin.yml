@@ -1,0 +1,10 @@
+name: ExplodingArrows
+version: 1.0
+main: com.capitanchewbacca.explodingarrows.Main
+author: C_Chewbacca
+
+commands:
+    explodingarrows:
+        usage: /<command> [true|false]
+        aliases: [boomarrows]
+        description: null
